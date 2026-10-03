@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "REGISTRO_GASTOS": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
